@@ -26,7 +26,7 @@ Git
 프로젝트 클론하기
 
 ```Bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/pudhy070/SiaBot.git
 cd YOUR_REPOSITORY
 ```
 ### 필요한 라이브러리 설치
