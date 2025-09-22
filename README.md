@@ -114,3 +114,7 @@ python main.py
 
 **이외 더 많은 기능이 존재합니다. Sia Bot Kotlin version이랑 사용하면 효과가 만점 입니다.**
 
+```
+문의는 Discord: _harumin 으로 연락 주세요
+```
+
