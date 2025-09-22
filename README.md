@@ -27,7 +27,6 @@ Git
 
 ```Bash
 git clone https://github.com/pudhy070/SiaBot.git
-cd YOUR_REPOSITORY
 ```
 ### 필요한 라이브러리 설치
 
@@ -54,7 +53,6 @@ BOT_TOKEN = "여기에_봇_토큰을_입력하세요"
 
 # 봇 개발자의 디스코드 유저 ID
 DEV_ID = 123456789012345678 
-주의: config.py 파일은 .gitignore에 추가하여 GitHub에 업로드되지 않도록 하는 것이 안전합니다.
 ```
 
 ### 봇 실행하기
